@@ -1,0 +1,7 @@
+# Compiled Files
+*.pyc
+*.class
+
+# Vim Temp Files
+*.swo
+*.swp
