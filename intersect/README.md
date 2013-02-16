@@ -3,7 +3,7 @@
 A simple Intersection Algoirithm for 2 Lists. The two lists must be in sorted order.
 The examples are implemented in:
 
-- Python
+- [Python](intersect.py)
 - Ruby
 - CoffeeScript / JavaScript
 - R
