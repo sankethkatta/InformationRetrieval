@@ -7,8 +7,8 @@ The examples are implemented in:
 - [Ruby](intersect.rb)
 - [CoffeeScript](intersect.coffee) / [JavaScript](intersect.js)
 - [R](intersect.r)
-- [Java](intersect.java)
-- [Scala](intersect.scala)
+- [Java](Intersect.java)
+- [Scala](Intersect.scala)
 
 ## Pseudocode
 
